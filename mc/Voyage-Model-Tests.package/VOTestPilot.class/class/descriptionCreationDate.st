@@ -1,6 +1,6 @@
 voyage
 descriptionCreationDate
-	<voyageDescriptionPlatforms: #(unqlite arango ejdb)>
+	<voyageDescriptionPlatforms: #(unqlite arango ejdb redis)>
 	
 	^VOToOneDescription new
 		attributeName: 'creationDate';
