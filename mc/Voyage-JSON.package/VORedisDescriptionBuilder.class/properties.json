@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "VODescriptionBuilder",
+	"category" : "Voyage-JSON",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "VORedisDescriptionBuilder",
+	"type" : "normal"
+}
